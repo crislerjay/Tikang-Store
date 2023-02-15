@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tikangstore/static/css/main.53b922d3.css",
-    "main.js": "/tikangstore/static/js/main.9eaddfc9.js",
-    "index.html": "/tikangstore/index.html",
-    "main.53b922d3.css.map": "/tikangstore/static/css/main.53b922d3.css.map",
-    "main.9eaddfc9.js.map": "/tikangstore/static/js/main.9eaddfc9.js.map"
+    "main.css": "/Tikang-Store/static/css/main.53b922d3.css",
+    "main.js": "/Tikang-Store/static/js/main.9eaddfc9.js",
+    "index.html": "/Tikang-Store/index.html",
+    "main.53b922d3.css.map": "/Tikang-Store/static/css/main.53b922d3.css.map",
+    "main.9eaddfc9.js.map": "/Tikang-Store/static/js/main.9eaddfc9.js.map"
   },
   "entrypoints": [
     "static/css/main.53b922d3.css",
